@@ -1,0 +1,7 @@
+{
+  "name": "The Chopra Case",
+  "description": "An interactive web application exploring the 1978 Ranga-Billa criminal case in New Delhi. Features interactive maps, forensic evidence analysis, legal timelines, and historical documentation.",
+  "version": "1.0.0",
+  "author": "",
+  "license": "Apache-2.0"
+}
